@@ -48,11 +48,10 @@
 1.5.3各概念具体解释
     特征提取
         将任意数据（如文本或图像）转换为可用于机器学习的数字特征
-
+![image](https://github.com/Dai-xueya/images/特征提取.png)
     特征预处理
         通过一些转换函数将特征数据转换成更加适合算法模型的特征数据过程
-
-
+![image](https://github.com/Dai-xueya/images/特征降维.png)
     特征降维
         指在某些限定条件下，降低随机变量(特征)个数，得到一组“不相关”主变量的过程
-
+![image](https://github.com/Dai-xueya/images/特征预处理.png)
